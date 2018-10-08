@@ -9,7 +9,7 @@
     "ejs": "^1.0.0",
     "express": "3.5.1",
     "express-myconnection": "1.0.4",
-    "jade": "*",
-    "mysql": "^2.16.0"
+    "mysql": "^2.16.0",
+    "body-parser": "^1.18.3",
   }
 }
